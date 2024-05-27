@@ -1,0 +1,572 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|e:\\practice database\\poultry management system\\poultry management system\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\show death poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:show death poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\show expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:show expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\sendcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:sendcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\sendcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:sendcode.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:reset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:welcomeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:changepassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add poultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\usserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:usserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\finalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:finalreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\usserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:usserdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\showpoultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:showpoultry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\show sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:show sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\diff form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:diff form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\diff form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:diff form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add sales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|E:\\Practice Database\\Poultry Management System\\Poultry Management System\\add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D018C3B-4422-4FDD-BB77-3A57B50D0C03}|Poultry Management System.csproj|solutionrelative:add user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1185,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reset.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Reset.cs",
+              "RelativeDocumentMoniker": "Reset.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Reset.cs",
+              "RelativeToolTip": "Reset.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAG0AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:23:19.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Reset.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Reset.cs",
+              "RelativeDocumentMoniker": "Reset.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Reset.cs [Design]",
+              "RelativeToolTip": "Reset.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:23:00.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WelcomeForm.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\WelcomeForm.cs",
+              "RelativeToolTip": "WelcomeForm.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:22:40.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WelcomeForm.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\WelcomeForm.cs",
+              "RelativeDocumentMoniker": "WelcomeForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\WelcomeForm.cs [Design]",
+              "RelativeToolTip": "WelcomeForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T20:22:37.921Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ChangePassword.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ChangePassword.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ChangePassword.cs",
+              "RelativeToolTip": "ChangePassword.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAswC0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:19:46.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ChangePassword.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ChangePassword.cs",
+              "RelativeDocumentMoniker": "ChangePassword.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ChangePassword.cs [Design]",
+              "RelativeToolTip": "ChangePassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T10:19:27.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sendcode.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Sendcode.cs",
+              "RelativeDocumentMoniker": "Sendcode.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Sendcode.cs",
+              "RelativeToolTip": "Sendcode.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAIwBUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:43:09.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sendcode.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Sendcode.cs",
+              "RelativeDocumentMoniker": "Sendcode.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Sendcode.cs [Design]",
+              "RelativeToolTip": "Sendcode.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:43:08.054Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UsserDashboard.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\UsserDashboard.cs",
+              "RelativeDocumentMoniker": "UsserDashboard.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\UsserDashboard.cs",
+              "RelativeToolTip": "UsserDashboard.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:07:32.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UsserDashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\UsserDashboard.cs",
+              "RelativeDocumentMoniker": "UsserDashboard.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\UsserDashboard.cs [Design]",
+              "RelativeToolTip": "UsserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:07:29.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\MainForm.cs",
+              "RelativeToolTip": "MainForm.cs",
+              "ViewState": "AQIAAKcAAAAAAAAAAAAmwAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:03:14.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\MainForm.cs",
+              "RelativeDocumentMoniker": "MainForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\MainForm.cs [Design]",
+              "RelativeToolTip": "MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:03:13.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Dashboard.cs",
+              "RelativeToolTip": "Dashboard.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAvwCAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:03:07.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Dashboard.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T09:03:06.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\LoginForm.cs",
+              "RelativeToolTip": "LoginForm.cs",
+              "ViewState": "AQIAAJUAAAAAAAAAAAAUwKIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:55:01.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Login.cs",
+              "RelativeDocumentMoniker": "Login.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Login.cs [Design]",
+              "RelativeToolTip": "Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:54:54.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Diff Form.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Diff Form.cs",
+              "RelativeDocumentMoniker": "Diff Form.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Diff Form.cs",
+              "RelativeToolTip": "Diff Form.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAcwCYAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:25:35.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Diff Form.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Diff Form.cs",
+              "RelativeDocumentMoniker": "Diff Form.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Diff Form.cs [Design]",
+              "RelativeToolTip": "Diff Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:25:34.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Add User.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add User.cs",
+              "RelativeDocumentMoniker": "Add User.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add User.cs",
+              "RelativeToolTip": "Add User.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:17:01.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Add User.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add User.cs",
+              "RelativeDocumentMoniker": "Add User.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add User.cs [Design]",
+              "RelativeToolTip": "Add User.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:16:59.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Add sales.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add sales.cs",
+              "RelativeDocumentMoniker": "Add sales.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add sales.cs",
+              "RelativeToolTip": "Add sales.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAhwEoAAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:16:33.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Add sales.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add sales.cs",
+              "RelativeDocumentMoniker": "Add sales.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add sales.cs [Design]",
+              "RelativeToolTip": "Add sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:16:31.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Add Poultry.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add Poultry.cs",
+              "RelativeDocumentMoniker": "Add Poultry.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add Poultry.cs",
+              "RelativeToolTip": "Add Poultry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:16:03.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add Poultry.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add Poultry.cs",
+              "RelativeDocumentMoniker": "Add Poultry.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Add Poultry.cs [Design]",
+              "RelativeToolTip": "Add Poultry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T18:16:01.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\LoginForm.cs",
+              "RelativeDocumentMoniker": "LoginForm.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\LoginForm.cs [Design]",
+              "RelativeToolTip": "LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T08:54:59.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ADD Expense.cs",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ADD Expense.cs",
+              "RelativeDocumentMoniker": "ADD Expense.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ADD Expense.cs",
+              "RelativeToolTip": "ADD Expense.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:28:11.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ADD Expense.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ADD Expense.cs",
+              "RelativeDocumentMoniker": "ADD Expense.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\ADD Expense.cs [Design]",
+              "RelativeToolTip": "ADD Expense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T10:28:10.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Show Expense.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Expense.cs",
+              "RelativeDocumentMoniker": "Show Expense.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Expense.cs [Design]",
+              "RelativeToolTip": "Show Expense.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:07:35.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Report.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Report.cs",
+              "RelativeDocumentMoniker": "Report.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Report.cs [Design]",
+              "RelativeToolTip": "Report.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:09:10.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FinalReport.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\FinalReport.cs",
+              "RelativeDocumentMoniker": "FinalReport.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\FinalReport.cs [Design]",
+              "RelativeToolTip": "FinalReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:08:50.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "showpoultry.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\showpoultry.cs",
+              "RelativeDocumentMoniker": "showpoultry.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\showpoultry.cs [Design]",
+              "RelativeToolTip": "showpoultry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:08:08.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Show Sales.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Sales.cs",
+              "RelativeDocumentMoniker": "Show Sales.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Sales.cs [Design]",
+              "RelativeToolTip": "Show Sales.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:07:55.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Show Death poultry.cs [Design]",
+              "DocumentMoniker": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Death poultry.cs",
+              "RelativeDocumentMoniker": "Show Death poultry.cs",
+              "ToolTip": "E:\\Practice Database\\Poultry Management System\\Poultry Management System\\Show Death poultry.cs [Design]",
+              "RelativeToolTip": "Show Death poultry.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T20:06:21.749Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 183,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
