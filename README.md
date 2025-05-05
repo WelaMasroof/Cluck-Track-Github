@@ -1,4 +1,3 @@
-Based on the provided information, here’s a detailed README file for your project, Cluck Track:
 
 ```markdown
 # Cluck Track
